@@ -96,7 +96,9 @@ Support
 
 
 ** Overall Report **
-![overall-veiw](https://github.com/Iqrabaloch123/Business-insight-360/assets/130351579/7de4da4e-81bb-47d5-abd8-176377663372)
+![Alt text](![overall-veiw](https://github.com/Iqrabaloch123/Business-insight-360/assets/130351579/67925ae2-8f54-4a77-9b95-15a05b4be3c4)
+)
+
 
 
 ** Supply chian **
