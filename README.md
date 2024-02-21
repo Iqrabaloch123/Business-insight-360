@@ -1,5 +1,5 @@
 # Business-insight-360
-** Project Overview **
+-- Project Overview --
 
 
 
@@ -8,7 +8,7 @@ Stakeholders seek answers in finance, sales, marketing, and supply chain.
 This project is inspired by the Codebasics Power BI Course (provided link).
 
 
-** Key Technologies: **
+-- Key Technologies: --
 
 SQL
 Power BI Desktop
@@ -97,6 +97,7 @@ Support
 
 ** Overall Report **
 ![overall-veiw](https://github.com/Iqrabaloch123/Business-insight-360/assets/130351579/4f5378c8-23da-4735-a4af-1146f1b3dcb6)
+
 ** Supply chian **
 ![supply-chian-veiw](https://github.com/Iqrabaloch123/Business-insight-360/assets/130351579/7aad4341-fbb7-4730-9534-080087996231)
 
