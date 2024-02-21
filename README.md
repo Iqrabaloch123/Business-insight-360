@@ -5,18 +5,25 @@
 
 AtliQ Hardware, experiencing rapid growth, aims to implement Power BI for data-driven decision-making and surpass competitors.
 Stakeholders seek answers in finance, sales, marketing, and supply chain.
-This project is inspired by the Codebasics Power BI Course (provided link).
+
 
 
 **Key Technologies:**
 
 SQL
+
 Power BI Desktop
+
 Excel
+
 DAX language
+
 DAX Studio (optimization)
+
 Project charter file
+
 Learned Power BI Techniques:
+
 
  **Questions for project initiation**
 
