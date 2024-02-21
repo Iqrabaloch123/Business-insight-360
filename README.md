@@ -96,7 +96,8 @@ Support
 
 
 ** Overall Report **
-C:\Users\GB\Downloads\Resources\overall-veiw.gif
+![overall-veiw](https://github.com/Iqrabaloch123/Business-insight-360/assets/130351579/7de4da4e-81bb-47d5-abd8-176377663372)
+
 
 ** Supply chian **
 ![supply-chian-veiw](https://github.com/Iqrabaloch123/Business-insight-360/assets/130351579/7aad4341-fbb7-4730-9534-080087996231)
