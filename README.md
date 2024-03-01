@@ -127,7 +127,7 @@ Support
  **info veiw**
 ![info-veiw](https://github.com/Iqrabaloch123/Business-insight-360/assets/130351579/42235974-368c-4714-875e-da6d0224b229)
 
-you can find the full report file here (https://www.novypro.com/project/-business-insights-360-1)
+you can find the full report file here (https://www.novypro.com/project/business-insight-360-33)
 
  **Project Outcome**
 By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
